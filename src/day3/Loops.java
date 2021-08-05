@@ -12,10 +12,8 @@ public class Loops {
 
 
     //here should be conflict
+        //changes fromm local master Sabir
 }
-
-    }
-
 
 }
 
