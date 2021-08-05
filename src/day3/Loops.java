@@ -10,7 +10,12 @@ public class Loops {
         System.out.println("Loops");
 
 
+
+    //here should be conflict
+}
+
     }
 
 
 }
+
