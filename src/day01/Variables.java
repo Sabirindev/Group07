@@ -10,7 +10,7 @@ public class Variables {
 
         //Primitive DataTypes - float numbers
         float f1 = 1.5f;
-        double d1 = 2.5;
+        double d2 = 10;  //conflict should be here
 
         char ch1 = 65; // 'A'
         boolean r1 = false; // true
