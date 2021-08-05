@@ -5,11 +5,21 @@ public class Car {
 
     public static void main(String[] args) {
         String carBrand = "Jaguar";
+
+        System.out.println("Honda");
+        System.out.println("Lexus");
+       String carBrand = "Jaguar";
         System.out.println(carBrand);
+      System.out.println("Honda");
+        
+        System.out.println(carBrand);
+         String carBrand = "Jaguar";
+        
+    }
+
     }
 
 
 
 
 
-}
