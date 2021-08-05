@@ -6,13 +6,9 @@ public class Car {
     public static void main(String[] args) {
         String carBrand = "Jaguar";
         System.out.println(carBrand);
+
+
+
+
     }
-
-
-    public static void main(String[] args) {
-        System.out.println("Honda");
-    }
-    String carBrand = "Jaguar";
-
-
 }
