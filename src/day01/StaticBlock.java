@@ -6,6 +6,7 @@ public class StaticBlock {
     public static int number;
     public static char aChar;
     public static double num;
+    public static long num1;
 
     static {
         name="CybertekSchool";
@@ -15,5 +16,8 @@ public class StaticBlock {
     }
     static {
         aChar='A';
+    }
+    static {
+        num1=10L;
     }
 }
