@@ -12,12 +12,16 @@ public class Loops {
 
         // new with friend
 
+    }
+    //aaaaaa
+
+
+
 
 
     //here should be conflict
+        //changes fromm local master Sabir
 }
-
-    }
 
 
 
