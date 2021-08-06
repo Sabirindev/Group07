@@ -9,7 +9,8 @@ public class Loops {
         System.out.println("Loops");
         System.out.println("Loops");
 
-
+//branch 1 added
+        //branch 2 added
 
     //here should be conflict
 }
