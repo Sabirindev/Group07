@@ -9,13 +9,15 @@ public class Loops {
         System.out.println("Loops");
         System.out.println("Loops");
 
+    }
+    //aaaaaa
+
+
 
 
     //here should be conflict
+        //changes fromm local master Sabir
 }
-
-    }
-
 
 
 
