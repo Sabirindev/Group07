@@ -1,7 +1,11 @@
 package nextOne;
 
 public class custom_class {
-    public static void main(String[] args) {
 
-    }
+        public static  String name;
+
+   static {
+       name = "Marina";
+       System.out.println(name);
+   }
 }
