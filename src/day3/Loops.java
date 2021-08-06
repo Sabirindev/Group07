@@ -10,9 +10,11 @@ public class Loops {
         System.out.println("Loops");
         System.out.println("Loops");
 
+
         // new with friend
 
     }
+
     //aaaaaa
 
 
@@ -21,6 +23,11 @@ public class Loops {
 
     //here should be conflict
         //changes fromm local master Sabir
+
+
+
+
+    //new change from local sabir
 }
 
 
