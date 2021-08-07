@@ -17,6 +17,7 @@ public class Car {
 
         //adding a new car brand
         String carBrand4 = "BMW";
+        System.out.println(carBrand4);
 
 
 
