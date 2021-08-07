@@ -8,6 +8,8 @@ public class TestCase1 {
 
         ArrayList<String>group7 = new ArrayList<>();
 
+        System.out.println("Group 7 is the best group!");
+
     }
 
 
