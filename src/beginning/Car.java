@@ -19,6 +19,9 @@ public class Car {
         String carBrand4 = "BMW";
         System.out.println(carBrand4);
 
+        String carBrand5 = "Mercedes";
+        System.out.println(carBrand5);
+
 
 
 
