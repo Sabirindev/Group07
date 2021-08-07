@@ -8,24 +8,12 @@ public class Car {
 
         System.out.println("Honda");
         System.out.println("Lexus");
-        String carBrand2 = "Jaguar";
-        System.out.println(carBrand2);
-        System.out.println("Honda");
+       String carBrand = "Jaguar";
+        System.out.println(carBrand);
+      System.out.println("Honda");
         
         System.out.println(carBrand);
-        String carBrand3 = "Jaguar";
-
-        //adding a new car brand
-        String carBrand4 = "BMW";
-        System.out.println(carBrand4);
-
-        String carBrand5 = "Mercedes";
-        System.out.println(carBrand5);
-
-
-
-
-
+         String carBrand = "Jaguar";
         
     }
 
