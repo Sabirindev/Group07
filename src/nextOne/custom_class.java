@@ -6,6 +6,16 @@ public class custom_class {
 
    static {
        name = "Marina";
+
+   }
+
+   public static void method1(){
        System.out.println(name);
    }
+}
+
+class test{
+    public static void main(String[] args) {
+        custom_class.method1();
+    }
 }
