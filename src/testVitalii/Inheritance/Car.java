@@ -10,7 +10,7 @@ public class Car extends Transport {
         System.out.println("Many people like to travel by " + name);
     }
     public void gotFlatTire(){
-        System.out.println("It happened sometimes when " + name + "got flat tire" );
+        System.out.println("But sometimes the  " + name + " can gets flat tire" );
     }
 
 }
