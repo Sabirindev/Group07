@@ -11,6 +11,9 @@ public class Travel {
         plane.onReparing();
         plane.fly();
 
+        System.out.println(car);
+        System.out.println(plane);
+
 
 
 
