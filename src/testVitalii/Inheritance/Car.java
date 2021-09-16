@@ -13,5 +13,6 @@ public class Car extends Transport {
         System.out.println("But sometimes the  " + name + " can gets flat tire" );
     }
 
-    // some extra practice for terminalkgdlf
+    // terminal branch
+
 }
