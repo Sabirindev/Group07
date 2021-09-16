@@ -13,4 +13,11 @@ public class Car extends Transport {
         System.out.println("But sometimes the  " + name + " can gets flat tire" );
     }
 
+    // terminal branch
+// second commit
+    // commit normally
+    // another comment
+//  another one
+    // new commits
+// feeling good
 }
