@@ -15,4 +15,8 @@ public class Car extends Transport {
 
     // terminal branch
 // second commit
+    // commit normally
+    // another comment
+
+
 }
